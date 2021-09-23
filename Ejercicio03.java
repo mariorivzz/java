@@ -7,7 +7,8 @@ public class Ejercicio03 {
 
 		/*3. Leer 10 números enteros. Debemos mostrarlos en 
 		 * el siguiente orden: el primero, el último, el segundo, 
-		 * el penúltimo, el tercero, etc. */
+		 * el penúltimo, el tercero, etc. 
+		 */
 		
 		int[] numeros = {2,4,6,8,10,12,14,16,18,20};
 		
